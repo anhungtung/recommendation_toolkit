@@ -1,0 +1,10 @@
+{
+    "walk_length":20,
+    "num_walks":50,
+    "p_val":0.2,
+    "q_val":0.2,
+    "num_workers":1,
+    "win_size":3,
+    "n_iters":20,
+    "embed_size":128
+}
